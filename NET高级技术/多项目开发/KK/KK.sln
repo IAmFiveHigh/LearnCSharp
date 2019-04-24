@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KKClient", "KKClient\KKClient.csproj", "{C3DEE685-2CCB-4623-8815-FA5F7ACE8965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KKServer", "KKServer\KKServer.csproj", "{17304A87-BD63-4E4B-B9B6-9277C909C136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{C81063F5-5052-4353-8CB7-32F1F75323B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3DEE685-2CCB-4623-8815-FA5F7ACE8965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DEE685-2CCB-4623-8815-FA5F7ACE8965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DEE685-2CCB-4623-8815-FA5F7ACE8965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DEE685-2CCB-4623-8815-FA5F7ACE8965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17304A87-BD63-4E4B-B9B6-9277C909C136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17304A87-BD63-4E4B-B9B6-9277C909C136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17304A87-BD63-4E4B-B9B6-9277C909C136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17304A87-BD63-4E4B-B9B6-9277C909C136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C81063F5-5052-4353-8CB7-32F1F75323B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81063F5-5052-4353-8CB7-32F1F75323B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81063F5-5052-4353-8CB7-32F1F75323B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81063F5-5052-4353-8CB7-32F1F75323B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

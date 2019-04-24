@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C3DEE685-2CCB-4623-8815-FA5F7ACE8965}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyLib/Help.cs">
+    <Files>
+      <File FileName="KKClient/Program.cs" Line="11" Column="10" />
+      <File FileName="KKServer/Program.cs" Line="9" Column="42" />
+      <File FileName="MyLib/Help.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.KKClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

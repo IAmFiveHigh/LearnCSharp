@@ -1,0 +1,8 @@
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/多项目开发/KK/MyLib/bin/Debug/netcoreapp2.1/MyLib.deps.json
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/多项目开发/KK/MyLib/bin/Debug/netcoreapp2.1/MyLib.dll
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/多项目开发/KK/MyLib/bin/Debug/netcoreapp2.1/MyLib.pdb
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/多项目开发/KK/MyLib/obj/Debug/netcoreapp2.1/MyLib.csproj.CoreCompileInputs.cache
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/多项目开发/KK/MyLib/obj/Debug/netcoreapp2.1/MyLib.AssemblyInfoInputs.cache
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/多项目开发/KK/MyLib/obj/Debug/netcoreapp2.1/MyLib.AssemblyInfo.cs
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/多项目开发/KK/MyLib/obj/Debug/netcoreapp2.1/MyLib.dll
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/多项目开发/KK/MyLib/obj/Debug/netcoreapp2.1/MyLib.pdb
