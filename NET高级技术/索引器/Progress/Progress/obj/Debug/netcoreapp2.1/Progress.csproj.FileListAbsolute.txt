@@ -1,0 +1,11 @@
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/索引器/Progress/Progress/bin/Debug/netcoreapp2.1/Progress.deps.json
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/索引器/Progress/Progress/bin/Debug/netcoreapp2.1/Progress.runtimeconfig.json
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/索引器/Progress/Progress/bin/Debug/netcoreapp2.1/Progress.runtimeconfig.dev.json
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/索引器/Progress/Progress/bin/Debug/netcoreapp2.1/Progress.dll
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/索引器/Progress/Progress/bin/Debug/netcoreapp2.1/Progress.pdb
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/索引器/Progress/Progress/obj/Debug/netcoreapp2.1/Progress.csprojAssemblyReference.cache
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/索引器/Progress/Progress/obj/Debug/netcoreapp2.1/Progress.csproj.CoreCompileInputs.cache
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/索引器/Progress/Progress/obj/Debug/netcoreapp2.1/Progress.AssemblyInfoInputs.cache
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/索引器/Progress/Progress/obj/Debug/netcoreapp2.1/Progress.AssemblyInfo.cs
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/索引器/Progress/Progress/obj/Debug/netcoreapp2.1/Progress.dll
+/Users/woshiwugaoniganxin/Desktop/asp/NET高级技术/索引器/Progress/Progress/obj/Debug/netcoreapp2.1/Progress.pdb
